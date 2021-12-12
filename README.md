@@ -1,2 +1,3 @@
-# python-functios
- Some basic functions
+# Python Functions
+
+ Some basic functions to save time coding
