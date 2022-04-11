@@ -113,6 +113,9 @@ def banknote_selector(valor):
         else:
             moedas_005 += 1
             
+    if soma < valor:
+        soma += 0.05
+        moedas_005 += 1
         
 
     print('Used banknotes:')
